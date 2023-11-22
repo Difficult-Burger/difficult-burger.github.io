@@ -21,7 +21,7 @@ See "Internships" page for more information.
 
 My Research Experience as an Undergraduate Research Assistant
 ------
-**[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (Supervisor: Prof. Wei Cai):**
+**[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
 
 Web3 Data Analysis Group, 2023.2-2023.7, Shenzhen, China.
 
