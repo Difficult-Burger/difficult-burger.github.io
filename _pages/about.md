@@ -17,7 +17,7 @@ My Internship Experience
 **Shenzhen NINES Internet:** Dev Department, 2022.9-2022.12, Shenzhen, China.
 
 
-See "Interships" page for more information.
+See "Internships" page for more information.
 
 My Research Experience as an Undergraduate Research Assistant
 ------
