@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Internships"
+title: "Industry Internships"
 permalink: /internships/
 author_profile: true
 
@@ -10,7 +10,7 @@ author_profile: true
 
 ## BNP Paribas
 *Corporate Banking Intern*  
-*Jun 2023 - Aug 2023, Shanghai*
+*Jun 2023 - Aug 2023, Shanghai, China*
 
 Main jobs:
 1. Collected quarterly and annual **financial data** of corporate clients, and collaborated to automate the evaluating form (Excel);
@@ -21,7 +21,7 @@ Main jobs:
 
 ## Shenzhen NINES Internet Co., Ltd. (Campus Start-up)
 *Front-end Engineer Intern, Dev Department*  
-*Sep 2022 - Dec 2022, Shenzhen, Guangdong*
+*Sep 2022 - Dec 2022, Shenzhen, China*
 
 Main jobs:
 Collaborated to **Build up Online Information Platform** for the Campus.
