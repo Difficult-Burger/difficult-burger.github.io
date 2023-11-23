@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Human-Crypto Society Laboratory (HCSLab, Supervisor: Prof. Wei Cai)
+### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
 *Research Assistant, Web3 Data Analysis Group*  
 *Feb 2023 - Jul 2023, Shenzhen, China*
 
