@@ -16,4 +16,4 @@ Here are some projects out of my interest or for my coursework. Stay tuned for m
 3. **Dinosaur (Python, imitating the one from Google):** [https://github.com/Difficult-Burger/Dinosaur](https://github.com/Difficult-Burger/Dinosaur)
 
 ## Big Data Analysis (_Stata_):
-1. **A Research Paper Replication:** [https://github.com/Difficult-Burger/EC03121](https://github.com/Difficult-Burger/EC03121)
+1. **A Research Paper Replication:** [https://github.com/Difficult-Burger/ECO3121](https://github.com/Difficult-Burger/ECO3121)
