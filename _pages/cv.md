@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+---
 Education
 ======
 ### **B.B.A in Fintech, The Chinese University of Hong Kong, Shenzhen, 2022 - 2026 (Expected)**
