@@ -13,7 +13,8 @@ Education
 * **A Joint Programme of School of Science & Engineering, School of Data Science and School of Management & Economics.**
 * **Academic Awards:**
 1. Harmonia Bowen Scholarship;
-2. "Jacaranda Prize"; (Scholarships for ranking top 0.8% of Zhejiang Gaokao)
+2. "Jacaranda Prize";
+   (The above are scholarships for ranking top 0.8% of Zhejiang Gaokao)
 3. Undergraduate Research Award;
 4. SME Dean's List, AY 2022-2023.
 
@@ -82,7 +83,7 @@ Campus Experience
 ### 0xCUHKSZ -- The Blockchain Association of CUHK-Shenzhen
 _Member, Feb 2023 - Present_
 
-**Main jobs:**
+Main jobs:
 1. Assisted the association's recruitment and workshop's organization;
 2. Offered preliminary consultation to newcomers and helped them carry out some preparatory work offline;
 3. Assisted in propagating offline activities to be held, and provided passionate students with relevant information and participation channels.
