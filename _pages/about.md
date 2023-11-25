@@ -17,7 +17,7 @@ My Internships
 **Shenzhen NINES Internet:** Dev Department, 2022.9-2022.12, Shenzhen, China.
 
 
-See "Internships" page for more information.
+See "[Internships](difficult-burger.github.io/internships)" page for more information.
 
 My Research Experience as an Undergraduate RA
 ------
@@ -26,5 +26,5 @@ My Research Experience as an Undergraduate RA
 Web3 Data Analysis Group, 2023.2-2023.7, Shenzhen, China.
 
 
-See "RA" page for more information.
+See "[RA](difficult-burger.github.io/ra)" page for more information.
 
