@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Assistant (Intern) Experiences"
+title: "Research Assistant (Intern) Experience"
 permalink: /ra/
 author_profile: true
 
