@@ -9,14 +9,15 @@ author_profile: true
 
 Education
 ======
-### **B.B.A in Fintech, The Chinese University of Hong Kong, Shenzhen, 2022 - 2026 (Expected)**
+### **B.B.A. in Fintech, The Chinese University of Hong Kong, Shenzhen, 2022 - 2026 (Expected)**
 * **A Joint Programme of School of Science & Engineering, School of Data Science and School of Management & Economics.**
 * **Academic Awards:**
 1. Harmonia Bowen Scholarship;
 2. "Jacaranda Prize";
+
    (The above are scholarships for ranking top 0.8% of Zhejiang Gaokao)
-3. Undergraduate Research Award;
-4. SME Dean's List, AY 2022-2023.
+4. Undergraduate Research Award;
+5. SME Dean's List, AY 2022-2023.
 
 * **GPA:** 3.588 / 4.000 (Top 30% in School)
 
