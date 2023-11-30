@@ -94,3 +94,4 @@ Skills, Languages & Hobbies
 - **Programming & Command Languages:** C++, Python, Stata, SQL (Basic), Linux (basic), Javascript, HTML, CSS.
 - **Tools & Frameworks:** Pyecharts (Data Visualization), Selenium (Web Crawler), Vue.js (Front-end Dev), Git, MS Office.
 - **Languages:** Mandarin (mother tongue), English (university's teaching language).
+- **Hobbies:** Jogging, Basketball, Badminton, Reading.
