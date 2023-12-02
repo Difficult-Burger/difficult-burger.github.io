@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some projects out of personal interest or from my coursework. Stay tuned for more!
+Here are some projects out of personal interest or from my courseworks. Stay tuned for more!
 
 ## Deep Learning Practice (_OpenCV with DNN in C++_):
 
