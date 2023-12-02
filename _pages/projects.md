@@ -15,7 +15,7 @@ Here are some projects out of my interest or for my coursework. Stay tuned for m
 
 1. **Handwritten Digit Recognition Project:** [https://github.com/Difficult-Burger/Digit-Recognition](https://github.com/Difficult-Burger/Digit-Recognition)
 
-## Individual Development of Desktop Game (_C++_/_Python_):
+## Desktop Game Development (_C++_/_Python_):
 1. **Greedy Snake (C++):** [https://github.com/Difficult-Burger/Greedy-Snake](https://github.com/Difficult-Burger/Greedy-Snake)
 2. **Aircraft Wars (C++):** [https://github.com/Difficult-Burger/Aircraft-Wars](https://github.com/Difficult-Burger/Aircraft-Wars)
 3. **Dinosaur (Python, imitating the one from Google):** [https://github.com/Difficult-Burger/Dinosaur](https://github.com/Difficult-Burger/Dinosaur)
