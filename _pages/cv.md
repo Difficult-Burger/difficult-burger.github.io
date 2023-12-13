@@ -28,6 +28,10 @@ Education
 
 Research Experience 
 ======
+### [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) (FNii)
+*Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
+*Dec 2023 - Present, Shenzhen, China*
+
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
 *Research Assistant, Web3 Data Analysis Group*  
 *Feb 2023 - Jul 2023, Shenzhen, China*
