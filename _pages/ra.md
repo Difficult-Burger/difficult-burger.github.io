@@ -8,6 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
+### [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) (FNii)
+*Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
+*Dec 2023 - Present, Shenzhen, China*
+
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
 *Research Assistant, Web3 Data Analysis Group*  
 *Feb 2023 - Jul 2023, Shenzhen, China*
@@ -17,7 +21,3 @@ Major Responsibilities:
 2. Performed **data visualization** into diagram using Pyecharts (Echarts for Python);
 3. Followed the news from both academia and industry, summarized them and provided initial insights;
 4. Read related papers and reported regularly.
-
-### [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) (FNii)
-*Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
-*Dec 2023 - Present, Shenzhen, China*
