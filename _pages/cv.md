@@ -13,7 +13,7 @@ Education
 * **A Joint Programme of School of Science & Engineering, School of Data Science and School of Management & Economics.**
 * **Academic Awards:**
 1. Harmonia Bowen Scholarship;
-2. "Jacaranda Prize";(The above are scholarships for ranking top 0.8% of Zhejiang Gaokao)
+2. "Jacaranda Prize"; (The above are scholarships for ranking top 0.8% of Zhejiang Gaokao)
 3. Undergraduate Research Award;
 4. SME Dean's List, AY 2022-2023.
 
