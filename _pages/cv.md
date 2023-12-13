@@ -24,7 +24,7 @@ Education
 
 
 
-Research Experience 
+Research Experiences 
 ======
 ### [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) (FNii)
 *Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
