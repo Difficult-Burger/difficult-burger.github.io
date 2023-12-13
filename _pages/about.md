@@ -21,14 +21,13 @@ See "[Internships](difficult-burger.github.io/internships)" page for more inform
 
 My Research Experience as an Undergraduate RA
 ------
-**[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
-
-Web3 Data Analysis Group, 2023.2-2023.7, Shenzhen, China.
-
 **[Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/)**
 
 Intelligent Networking and Multimedia Lab (Supervisor: Prof. Fangxin Wang), 2023.12-Present, Shenzhen, China.
 
+**[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
+
+Web3 Data Analysis Group, 2023.2-2023.7, Shenzhen, China.
 
 See "[RA](difficult-burger.github.io/ra)" page for more information.
 
