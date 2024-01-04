@@ -20,14 +20,14 @@ Education
 * **GPA:** 3.588 / 4.000 (Top 30% in School)
 
 * **Core Courses:**
-  Machine Learning, Data Structures, Econometrics, Computational Laboratory, Calculus, Linear Algebra, Probability and Statistics, Microeconomic,      Financial Management, Financial Accounting...
+  Machine Learning, Optimizaiton, Data Structures, Econometrics, Computational Laboratory, Calculus, Linear Algebra, Probability and Statistics, Microeconomic, Financial Management, Financial Accounting...
 
 
 
 Research Experiences 
 ======
-### [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) (FNii)
-*Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
+### Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)
+*Research Assistant, Edge Intelligence Group*  
 *Dec 2023 - Present, Shenzhen, China*
 
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
