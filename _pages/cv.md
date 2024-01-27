@@ -98,6 +98,6 @@ Main jobs:
 Skills, Languages & Hobbies
 ======
 - **Programming & Command Languages:** C++, Python, Stata, SQL (Basic), Linux (basic), Javascript, HTML, CSS.
-- **Toolkits & Frameworks:** Pytorch, Langchain, OpenCV, Pyecharts (Data Visualization), Selenium (Web Crawler), Numpy, Vue.js (Front-end Dev), Git, MS Office.
+- **Toolkits & Frameworks:** Pytorch, Langchain, OpenCV, Pyecharts, Selenium, Numpy, Pandas, Vue.js, Git, MS Office.
 - **Languages:** Mandarin (mother tongue), English (university's teaching language).
 - **Hobbies:** Jogging, Basketball, Badminton, Reading.
