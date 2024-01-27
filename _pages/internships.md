@@ -24,7 +24,7 @@ Main jobs:
 *Sep 2022 - Dec 2022, Shenzhen, China*
 
 Main jobs:
-Collaborated to **Build up Online Information Platform** for the Campus.
+Collaborated to **Build an Online Information Platform** for the Campus.
 * Received demands from the product department, including UI design and interaction logic;
 * Based on the *Uni-app* (HBuilder X), **collaborated to develop** (using *Vue.js*) the pages of a WeChat mini-program.
 
