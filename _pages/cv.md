@@ -17,7 +17,7 @@ Education
 3. Undergraduate Research Award;
 4. SME Dean's List, AY 2022-2023.
 
-* **GPA:** 3.588 / 4.000 (Top 30% in School)
+* **GPA:** 3.635 / 4.000 (Top 20% in School)
 
 * **Core Courses:**
   Machine Learning, Optimizaiton, Data Structures, Econometrics, Computational Laboratory, Calculus, Linear Algebra, Probability and Statistics, Microeconomic, Financial Management, Financial Accounting...
