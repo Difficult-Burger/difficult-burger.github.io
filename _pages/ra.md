@@ -12,11 +12,14 @@ author_profile: true
 *Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
 *Dec 2023 - Present, Shenzhen, China*
 
+Main Jobs:
+1. **Designed prompts** for existing LLM (GPT-3.5-turbo) to autonomously select the appropriate **multimodal** tools, utilizing both zero-shot and in-context learning techniques.
+
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
 *Research Assistant, Web3 Data Analysis Group*  
 *Feb 2023 - Jul 2023, Shenzhen, China*
 
-Major Responsibilities:
+Main Jobs:
 1. Implemented anti-crawling using **Python** with **Selenium & BeautifulSoup**, located HTML tags, **crawled data** on web pages, performed basic **data cleaning** and then exported data to **assist other group members** in their research;
 2. Performed **data visualization** into diagram using Pyecharts (Echarts for Python);
 3. Followed the news from both academia and industry, summarized them and provided initial insights;
