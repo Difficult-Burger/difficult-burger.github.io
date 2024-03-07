@@ -21,7 +21,7 @@ See "[Internships](difficult-burger.github.io/internships)" page for more inform
 
 My Research Experience as an Undergraduate RA
 ------
-**Intelligent Networking and Multimedia Lab** (Supervisor: Prof. Fangxin Wang):
+**[Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html)** (Supervisor: Prof. Fangxin Wang):
 
 Edge Intelligence Group, 2023.12-Present, Shenzhen, China.
 
