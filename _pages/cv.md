@@ -26,9 +26,12 @@ Education
 
 Research Experiences 
 ======
-### Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)
+### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html) (INML, Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Edge Intelligence Group*  
 *Dec 2023 - Present, Shenzhen, China*
+
+Main jobs:
+1. **Designed prompts** for existing LLM (GPT-3.5-turbo) to autonomously select the appropriate **multimodal** tools, utilizing both zero-shot and in-context learning techniques.
 
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
 *Research Assistant, Web3 Data Analysis Group*  
