@@ -83,10 +83,15 @@ Project Experiences
 
 Investment Experience
 ======
-### Individual Stock Market Investments
-_Jun 2022 - Present_
-- Yield of Securities: 16.16% (2023.1.1 - 2023.11.1)
-- Fields of Concern: (Basically TMT) AIGC, Web3, Data Rights, Data Security, Chip Manufacturing, Digital Economy...
+- **Yield from the Chinese A-shares: 7.75%** (Aug. 2022 - Mar. 2024)
+
+  Areas of Interest: (Primarily TMT) AIGC, Blockchain, Data Security, Chip Manufacturing, IoT, Digital Economy...
+
+- **Yield from the U.S. Stocks: 9.78%** (Dec. 2023 - Mar. 2024)
+
+  Areas of Interest: Chip Manufacturing, Information Security, Upstream and Downstream of Crypto Currency...
+
+- **Yield of Other Assets: 16.32%** (Dec. 2023 - Mar. 2024)
 
 Campus Experience
 ======
