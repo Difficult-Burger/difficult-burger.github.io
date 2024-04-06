@@ -31,7 +31,7 @@ Research Experiences
 *Dec 2023 - Present, Shenzhen, China*
 
 Main jobs:
-1. **Designed prompts** for existing LLM (GPT-3.5-turbo) to autonomously select the appropriate **multimodal** tools, utilizing both zero-shot and in-context learning techniques.
+1. **Designed prompts** for existing LLM (GPT-3.5-turbo) to autonomously select the appropriate **multimodal** tools with the help of **Langchain**, utilizing both zero-shot and in-context learning techniques.
 
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
 *Research Assistant, Web3 Data Analysis Group*  
@@ -105,8 +105,8 @@ Main jobs:
 
 Skills, Languages & Hobbies
 ======
-- **Programming & Command Languages:** C++, Python, Stata, SQL (Basic), Linux (basic), Javascript, HTML, CSS.
+- **Programming & Command Languages:** C++, Python, R, Stata, SQL, Linux, Javascript, HTML, CSS.
 - **Toolkits & Frameworks:** Pytorch, Langchain, OpenCV, Vue.js, Pyecharts, Selenium, Numpy, Pandas, Git.
-- **Multimedia Editors:** MS Office, Photoshop, Premier Pro, Jianying.
+- **Multimedia Editors:** DALL·E, MS Office, Photoshop, Premier Pro, Jianying.
 - **Languages:** Mandarin (mother tongue), English (university's teaching language).
 - **Hobbies:** Jogging, Basketball, Badminton, Reading.
