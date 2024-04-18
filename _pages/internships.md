@@ -8,8 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
+## Baidu, Inc.
+*Speech Algorithm Intern, Synthesis and Integration Group*  
+*Jun 2024 - Aug 2024, Beijing, China*
+
 ## BNP Paribas
-*Corporate Banking Intern*  
+*Corporate Banking Intern, CIB Department*  
 *Jun 2023 - Aug 2023, Shanghai, China*
 
 Main jobs:
