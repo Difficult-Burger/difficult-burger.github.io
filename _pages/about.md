@@ -12,6 +12,8 @@ I am currently a sophomore at [The Chinese University of Hong Kong, Shenzhen](ht
 
 My Internships
 ------
+**Baidu, Inc.:** Synthesis and Integration Group, 2024.6-2024.8, Beijing, China.
+
 **BNP Paribas:** Corporate Banking Department, 2023.6-2023.8, Shanghai, China.
 
 **Shenzhen NINES Internet:** Dev Department, 2022.9-2022.12, Shenzhen, China.
