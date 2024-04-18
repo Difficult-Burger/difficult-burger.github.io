@@ -46,6 +46,10 @@ Main jobs:
 
 Internship Experiences
 ======
+### Baidu, Inc.
+*Speech Algorithm Intern, Synthesis and Integration Group*  
+*Jun 2024 - Aug 2024, Beijing, China*
+
 ### BNP Paribas
 *Corporate Banking Intern*  
 *Jun 2023 - Aug 2023, Shanghai, China*
