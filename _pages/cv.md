@@ -22,6 +22,8 @@ Education
 * **Core Courses:**
   Machine Learning, Optimizaiton, Data Structures, Econometrics, Computational Laboratory, Calculus, Linear Algebra, Probability and Statistics, Microeconomic, Financial Management, Financial Accounting...
 
+### **University of California, Berkeley, Aug. 2024 - Dec. 2024**
+* **Berkeley Global Access**
 
 
 Research Experiences 
