@@ -52,6 +52,9 @@ Internship Experiences
 *Speech Algorithm Intern, Synthesis and Integration Group*  
 *Jun 2024 - Aug 2024, Beijing, China*
 
+Main jobs:
+1. Performed **slot normalization** to support LLMs' comprehension and training.
+
 ### BNP Paribas
 *Corporate Banking Intern*  
 *Jun 2023 - Aug 2023, Shanghai, China*
