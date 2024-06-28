@@ -31,5 +31,5 @@ Edge Intelligence Group, 2023.12-Present, Shenzhen, China.
 
 Web3 Data Analysis Group, 2023.2-2023.7, Shenzhen, China.
 
-See "[RA](difficult-burger.github.io/ra)" page for more information.
+See "[RA](/ra)" page for more information.
 
