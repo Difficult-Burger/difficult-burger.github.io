@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: difficult-burger.github.io/cv/
 author_profile: true
 ---
 
@@ -53,7 +53,11 @@ Internship Experiences
 *Jun 2024 - Aug 2024, Beijing, China*
 
 Main jobs:
-1. Performed **slot normalization** to support LLMs' comprehension and training.
+1. Performed **slot normalization** on numerical slots in spoken English, converting text into digits, real numbers, and percentages.
+2. **Parsed parameter conditions** obtained through intent recognition and **converted them into specific function calls** to support voice interaction in automotive digital cockpits.
+3. **Used Llama3-8B to generate chat data**, including 20,000 sets of semantically neutral data, 20,000 sets of single-turn chat dialogues, and 5,000 sets of multi-turn chat dialogues, to train semantic LLMs.
+4. **Refined JSON data** from LLM responses by recursively validating and correcting the JSON format using **Python's JSON package and the Llama3-8B interface**, cleaning of 100 responses.
+5. Cleaned a dataset of hundreds of thousands of "seed query-intent + similar query-intent" pairs. Through string parsing, similarity filtering, and duplicate removal, generated a dataset of **millions of "query-intent" pairs** for training **intent recognition** models.
 
 ### BNP Paribas
 *Corporate Banking Intern*  
