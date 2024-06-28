@@ -19,7 +19,7 @@ My Internships
 **Shenzhen NINES Internet:** Dev Department, 2022.9-2022.12, Shenzhen, China.
 
 
-See "[Internships](difficult-burger.github.io/internships)" page for more information.
+See "[Internships](/internships)" page for more information.
 
 My Research Experience as an Undergraduate RA
 ------
