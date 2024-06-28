@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: difficult-burger.github.io/cv/
+permalink: /cv/
 author_profile: true
 ---
 
