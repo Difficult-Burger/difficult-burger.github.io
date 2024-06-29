@@ -35,7 +35,7 @@ Research Experiences
 Main Jobs:
 1. **Designed prompts** for the existing LLM (GPT-3.5-turbo) using **zero-shot learning and in-context learning** techniques, enabling it to autonomously select the appropriate **multimodal tools** via langchain.
 2. Improved prompts designs to enhance the **LLM’s** (DeepSeek) **understanding and summarization** of usage scenarios and parameter types for 10 different tools, serving as the foundation of its **Chain-of-Thought reasoning**.
-3. Designed experiments to validate the effectiveness of **federated LLM learning in tool invocation**, revising prompts for better performance while ensuring **client data remains local and unshared**.
+3. Designed experiments to study the effectiveness of **federated LLM learning in tool invocation**, simulating **data non-sharing** by assigning different **prompt parameters** to each client.
 
 
 ### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
