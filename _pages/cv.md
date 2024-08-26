@@ -16,7 +16,7 @@ Education
 3. Undergraduate Research Award;
 4. Dean's List, AY 2022-2023.
 
-* **GPA:** 3.635/4.000 (Top 20% in School)
+* **GPA:** 3.651/4.000 (Top 21% in School of Data Science)
 
 * **Core Courses:**
   Machine Learning, Optimizaiton, Data Structures, Econometrics, Computational Laboratory, Calculus, Linear Algebra, Probability and Statistics, Microeconomic, Financial Management, Financial Accounting...
@@ -24,12 +24,15 @@ Education
 ### **University of California, Berkeley, Aug. 2024 - Dec. 2024**
 * **Berkeley Global Access**
 
+Publication
+=====
+### Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learning, AAAI (under review).
 
 Research Experiences 
 ======
 ### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html) (INML, Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Edge Intelligence Group*  
-*Dec 2023 - Present, Shenzhen, China*
+*Dec 2023 - Aug 2024, Shenzhen, China*
 
 Main Jobs:
 1. **Designed prompts** for the existing LLM (GPT-3.5-turbo) using **zero-shot learning and in-context learning** techniques, enabling it to autonomously select the appropriate **multimodal tools** via langchain.
