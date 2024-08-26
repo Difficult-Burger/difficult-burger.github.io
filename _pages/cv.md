@@ -26,7 +26,7 @@ Education
 
 Publication
 =====
-### Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learning, AAAI (under review).
+Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learning, AAAI (under review).
 
 Research Experiences 
 ======
