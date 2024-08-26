@@ -8,9 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-### [Future Network of Intelligence Institute](https://fnii.cuhk.edu.cn/) (FNii)
-*Research Assistant, Intelligent Networking and Multimedia Lab (INML, Supervisor: Prof. Fangxin Wang)*  
-*Dec 2023 - Present, Shenzhen, China*
+### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/opening.html) (INML, Supervisor: Prof. Fangxin Wang)
+*Research Assistant, Federated Learning Group*  
+*Dec 2023 - Aug 2024, Shenzhen, China*
 
 Main Jobs:
 1. **Designed prompts** for the existing LLM (GPT-3.5-turbo) using **zero-shot learning and in-context learning** techniques, enabling it to autonomously select the appropriate **multimodal tools** via langchain.
