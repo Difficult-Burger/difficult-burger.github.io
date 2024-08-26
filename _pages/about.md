@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a junior at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), majoring in **Computer Science & Engineering**. My research interests include _AI agent_, _vertical LLM solution_, _blockchain applications_, _data-driven decision making_, etc. As an undergraduate student passionate about emerging technologies, I am exploring various fields regarding **AIGC**, **Fintech**, **Data Science** and **Web3**. I am also passionate about the **Commercialization** and **Investments** related to these topics.
+I am currently a junior at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), majoring in **Computer Science & Engineering**. My research interests include _AI agent_, _blockchain applications_, _data-driven decision making_, etc. As an undergraduate student passionate about emerging technologies, I am exploring various fields regarding **AIGC**, **Fintech**, **Data Science** and **Web3**. I am also passionate about the **Commercialization** and **Investments** related to these topics.
 
 My Internships
 ------
