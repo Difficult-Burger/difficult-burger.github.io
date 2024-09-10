@@ -23,6 +23,8 @@ Education
 
 ### **University of California, Berkeley, Aug. 2024 - Dec. 2024**
 * **Berkeley Global Access**
+* **Core Courses:**
+  Discrete Mathematics, Efficient Algorithms and Intractable Problems, Introduction to Artificial Intelligence... 
 
 Publication
 =====
