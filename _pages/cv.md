@@ -33,7 +33,7 @@ Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learn
 Research Experiences 
 ======
 ### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html), CUHK-Shenzhen (Supervisor: Prof. Fangxin Wang)
-*Research Assistant, Edge Intelligence Group*  
+*Research Assistant, Federated Learning Group*  
 *Dec 2023 - Aug 2024, Shenzhen, China*
 
 Main Jobs:
