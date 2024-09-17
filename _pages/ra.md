@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/opening.html) (INML, Supervisor: Prof. Fangxin Wang)
+### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/opening.html), CUHK-Shenzhen (Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Federated Learning Group*  
 *Dec 2023 - Aug 2024, Shenzhen, China*
 
@@ -17,8 +17,8 @@ Main Jobs:
 2. Improved prompts designs to enhance the **LLM’s** (DeepSeek) **understanding and summarization** of usage scenarios and parameter types for 10 different tools, serving as the foundation of its **Chain-of-Thought reasoning**.
 3. Designed experiments to study the effectiveness of **federated LLM learning in tool invocation**, simulating **data non-sharing** by assigning different **prompt parameters** to each client.
 
-### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/) (HCSLab, Supervisor: Prof. Wei Cai)
-*Research Assistant, Web3 Data Analysis Group*  
+### [Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/), CUHK-Shenzhen (Presently [Decentralized Computing Lab](https://sites.uw.edu/weicaics/), University of Washington) (Supervisor: Prof. Wei Cai)
+*Research Assistant, Decentralized Social Computing (Data Analysis) Group*  
 *Feb 2023 - Jul 2023, Shenzhen, China*
 
 Main Jobs:
