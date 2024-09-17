@@ -29,7 +29,7 @@ Edge Intelligence Group, 2023.12-2024.8, Shenzhen, China.
 
 **[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
 
-Web3 Data Analysis Group, 2023.2-2023.7, Shenzhen, China.
+Decentralized Social Computing (Data Analysis) Group, 2023.2-2023.7, Shenzhen, China.
 
 See "[RA](/ra)" page for more information.
 
