@@ -25,7 +25,7 @@ My Research Experience as an Undergraduate RA
 ------
 **[Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html)** (Supervisor: Prof. Fangxin Wang):
 
-Edge Intelligence Group, 2023.12-2024.8, Shenzhen, China.
+Federated Learning Group, 2023.12-2024.8, Shenzhen, China.
 
 **[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
 
