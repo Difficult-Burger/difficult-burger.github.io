@@ -14,9 +14,9 @@ Education
 1. Harmonia Bowen Scholarship;
 2. "Jacaranda Prize"; (The above are scholarships for ranking top 0.8% of Zhejiang Gaokao)
 3. Undergraduate Research Award;
-4. Dean's List, AY 2022-2023.
+4. Dean's List, AY 2022-2023 & AY2023-2024.
 
-* **GPA:** 3.651/4.000 (Top 21% in School of Data Science)
+* **GPA:** 3.651/4.000 (Top 20% in School of Data Science)
 
 * **Core Courses:**
   Machine Learning, Optimizaiton, Data Structures, Econometrics, Computational Laboratory, Calculus, Linear Algebra, Probability and Statistics, Microeconomic, Financial Management, Financial Accounting...
