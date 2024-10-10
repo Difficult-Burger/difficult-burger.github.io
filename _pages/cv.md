@@ -32,6 +32,11 @@ Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learn
 
 Research Experiences 
 ======
+### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/), UC Berkeley (Supervisor: Prof. Dawn Song)
+*Undergraduate Research Apprentice, AI Safety Division*  
+*Oct 2024 - Present, Berkeley, USA*
+
+
 ### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html), CUHK-Shenzhen (Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Federated Learning Group*  
 *Dec 2023 - Aug 2024, Shenzhen, China*
@@ -55,7 +60,12 @@ Main jobs:
 
 Internship Experiences
 ======
-### Baidu Online Network Technology (Beijing) Co., Ltd.
+### Vitaly Medical Inc.
+*Machine Learning Intern*  
+*Oct 2024 - Present, Berkeley, USA*
+
+
+### Baidu Inc.
 *Speech Algorithm Intern, Synthesis and Integration Group, Speech Technology Department*  
 *Jun 2024 - Aug 2024, Beijing, China*
 
@@ -68,7 +78,7 @@ Main jobs:
 6. Independently developed the human feedback features of a **Multi-Turn Task-Oriented Dialogue System** to support data labeling. Reconstructed the Natural Language Understanding (**NLU**) module, to enhance the model's ability to recognize user **intents** and **slots**, execute tasks, or request additional information when needed. Implemented front-end interactions with Streamlit to improve user engagement and resolved conflicts between back-end and front-end operations by adjusting algorithmic processes.
 
 ### BNP Paribas
-*Corporate Banking Intern*  
+*Corporate Banking Intern, Corporate & Institutional Banking Department*  
 *Jun 2023 - Aug 2023, Shanghai, China*
 
 Main jobs:
