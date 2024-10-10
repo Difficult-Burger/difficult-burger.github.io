@@ -12,6 +12,8 @@ I am currently a third-year undergraduate at [The Chinese University of Hong Kon
 
 My Internships
 ------
+**Vitaly Medical Inc.:** Machine Learning Intern, 2024.10-Present, Berkeley, USA.
+
 **Baidu, Inc.:** Speech Algorithm Intern, 2024.6-2024.8, Beijing, China.
 
 **BNP Paribas:** Corporate Banking Intern, 2023.6-2023.8, Shanghai, China.
@@ -23,6 +25,10 @@ See "[Internships](/internships)" page for more information.
 
 My Research Experience as an Undergraduate RA
 ------
+**[Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)** (Supervisor: Prof. Dawn Song):
+
+AI Safety Division, 2024.10-Present, Berkeley, USA.
+
 **[Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html)** (Supervisor: Prof. Fangxin Wang):
 
 Federated Learning Group, 2023.12-2024.8, Shenzhen, China.
