@@ -8,7 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Baidu Online Network Technology (Beijing) Co., Ltd.
+## Vitaly Medical Inc.
+*Machine Learning Intern*  
+*Oct 2024 - Present, Berkeley, USA*
+
+## Baidu Inc.
 *Speech Algorithm Intern, Synthesis and Integration Group, Speech Technology Department*  
 *Jun 2024 - Aug 2024, Beijing, China*
 
