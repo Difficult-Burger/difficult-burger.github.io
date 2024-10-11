@@ -8,11 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Vitaly Medical Inc.
+## [Vitaly Medical Inc.](https://vitalymedicals.com)
 *Machine Learning Intern*  
 *Oct 2024 - Present, Berkeley, USA*
 
-## Baidu Inc.
+## [Baidu Inc](https://home.baidu.com).
 *Speech Algorithm Intern, Synthesis and Integration Group, Speech Technology Department*  
 *Jun 2024 - Aug 2024, Beijing, China*
 
@@ -24,7 +24,7 @@ Main jobs:
 5. Cleaned a dataset containing hundreds of thousands of “seed query-intent + similar query-intent” pairs. Through string parsing, similarity filtering, and duplicate removal, generated a dataset of **millions of “query-intent” pairs** for training **intent recognition** models.
 6. Independently developed the human feedback features of a **Multi-Turn Task-Oriented Dialogue System** to support data labeling. Reconstructed the Natural Language Understanding (**NLU**) module, to enhance the model's ability to recognize user **intents** and **slots**, execute tasks, or request additional information when needed. Implemented front-end interactions with Streamlit to improve user engagement and resolved conflicts between back-end and front-end operations by adjusting algorithmic processes.
 
-## BNP Paribas
+## [BNP Paribas (China)](https://china.bnpparibas.com/en)
 *Corporate Banking Intern, CIB Department*  
 *Jun 2023 - Aug 2023, Shanghai, China*
 
