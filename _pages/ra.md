@@ -8,6 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
+### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Prof. Dawn Song)
+*Undergraduate Research Apprentice, AI Safety Division*  
+*Oct 2024 - Present, Berkeley, USA*
+
 ### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/opening.html), CUHK-Shenzhen (Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Federated Learning Group*  
 *Dec 2023 - Aug 2024, Shenzhen, China*
