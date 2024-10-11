@@ -12,11 +12,11 @@ I am currently a third-year undergraduate at [The Chinese University of Hong Kon
 
 My Internships
 ------
-**Vitaly Medical Inc.:** Machine Learning Intern, 2024.10-Present, Berkeley, USA.
+**[Vitaly Medical Inc.](https://vitalymedicals.com/):** Machine Learning Intern, 2024.10-Present, Berkeley, USA.
 
-**Baidu, Inc.:** Speech Algorithm Intern, 2024.6-2024.8, Beijing, China.
+**[Baidu, Inc.](https://home.baidu.com/):** Speech Algorithm Intern, 2024.6-2024.8, Beijing, China.
 
-**BNP Paribas:** Corporate Banking Intern, 2023.6-2023.8, Shanghai, China.
+**[BNP Paribas (China)](https://china.bnpparibas.com/en/):** Corporate Banking Intern, 2023.6-2023.8, Shanghai, China.
 
 **Shenzhen NINES Internet:** Front-end Dev Intern, 2022.9-2022.12, Shenzhen, China.
 
