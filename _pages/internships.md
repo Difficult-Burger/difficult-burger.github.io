@@ -12,6 +12,11 @@ author_profile: true
 *Machine Learning Intern*  
 *Oct 2024 - Present, Berkeley, USA*
 
+Utilized the open-source wrist-worn accelerometer dataset WEDA-FALL to design and implement a **fall detection system**:
+1. Applied data preprocessing techniques including **filtering**, **segmentation**, and **feature extraction**.
+2. Designed and trained a **machine learning model** for fall detection, obtaining an accuracy of **98.6%**.
+3. Enhanced the system by implementing a post-fall inactivity recognition feature.
+
 ## [Baidu Inc.](https://home.baidu.com)
 *Speech Algorithm Intern, Synthesis and Integration Group, Speech Technology Department*  
 *Jun 2024 - Aug 2024, Beijing, China*
