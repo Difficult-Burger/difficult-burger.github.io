@@ -8,9 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
-### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Prof. Dawn Song)
+### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Prof. Dawn Song, Mentor: Dr. Xuandong Zhao)
 *Undergraduate Research Apprentice, AI Safety Division*  
 *Oct 2024 - Present, Berkeley, USA*
+
+Main Jobs:
+1. Reviewed 40+ cutting-edge research papers on **LLM reasoning** and **data synthesis**, identifying intersections to explore breakthroughs in enhancing reasoning capabilities of LLMs.
 
 ### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/opening.html), CUHK-Shenzhen (Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Federated Learning Group*  
