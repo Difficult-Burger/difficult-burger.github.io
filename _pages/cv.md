@@ -32,16 +32,19 @@ Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learn
 
 Research Experiences 
 ======
-### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/), UC Berkeley (Supervisor: Prof. Dawn Song)
+### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/), UC Berkeley (Supervisor: Prof. Dawn Song, Mentor: Dr. Xuandong Zhao)
 *Undergraduate Research Apprentice, AI Safety Division*  
 *Oct 2024 - Present, Berkeley, USA*
+
+Main jobs:
+1. Reviewed 40+ cutting-edge research papers on **LLM reasoning** and **data synthesis**, identifying intersections to explore breakthroughs in enhancing reasoning capabilities of LLMs.
 
 
 ### [Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html), CUHK-Shenzhen (Supervisor: Prof. Fangxin Wang)
 *Research Assistant, Federated Learning Group*  
 *Dec 2023 - Aug 2024, Shenzhen, China*
 
-Main Jobs:
+Main jobs:
 1. **Designed prompts** for the existing LLM (GPT-3.5-turbo) using **zero-shot learning and in-context learning** techniques, enabling it to autonomously select the appropriate **multimodal tools** via langchain.
 2. Improved prompts designs to enhance the **LLM’s** (DeepSeek) **understanding and summarization** of usage scenarios and parameter types for 10 different tools, serving as the foundation of its **Chain-of-Thought reasoning**.
 3. Designed experiments to study the effectiveness of **federated LLM learning in tool invocation**, simulating **data non-sharing** by assigning different **prompt parameters** to each client.
@@ -63,6 +66,11 @@ Internship Experiences
 ### [Vitaly Medical Inc](https://vitalymedicals.com).
 *Machine Learning Intern*  
 *Oct 2024 - Present, Berkeley, USA*
+
+Utilized the open-source wrist-worn accelerometer dataset WEDA-FALL to design and implement a **fall detection system**:
+1. Applied data preprocessing techniques including **filtering**, **segmentation**, and **feature extraction**.
+2. Designed and trained a **machine learning model** for fall detection, obtaining an accuracy of **98.6%**.
+3. Enhanced the system by implementing a post-fall inactivity recognition feature.
 
 
 ### [Baidu Inc.](https://home.baidu.com)
