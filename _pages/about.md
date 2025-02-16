@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year undergraduate at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), majoring in **Computer Science & Engineering**. My research interests include **LLM Agent** and **NLP**. As an undergraduate student passionate about emerging technologies, I am exploring various fields regarding **AIGC**, **Fintech**, **Data Science** and **Web3**. I am also passionate about the **Commercialization** and **Investments** related to these topics.
+I am currently a third-year undergraduate at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), majoring in **Computer Science & Engineering**. My research interests include **LLM Reasoning**, **NLP**, **AI Agent** and **Data Synthesis for LLMs**. As an undergraduate student passionate about emerging technologies, I am exploring various fields regarding **AIGC**, **Fintech**, **Data Science** and **Web3**. I am also passionate about the **Commercialization** and **Investments** related to these topics.
 
 My Internships
 ------
