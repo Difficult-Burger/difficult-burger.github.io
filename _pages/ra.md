@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Prof. Dawn Song, Mentor: Dr. Xuandong Zhao)
+### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Dr. Xuandong Zhao, Prof. Dawn Song)
 *Undergraduate Research Apprentice, AI Safety Division*  
 *Oct 2024 - Dec 2024, Berkeley, USA*
 
