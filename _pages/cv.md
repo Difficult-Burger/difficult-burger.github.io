@@ -34,7 +34,7 @@ Research Experiences
 ======
 ### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen (Supervisor: Prof. Zhizheng Wu)
 *Research Intern, TTS Group*  
-*Feb 2025 - Dec Present, Shenzhen, China*
+*Feb 2025 - Present, Shenzhen, China*
 
 Main Jobs:
 1. Implemented Direct Preference Optimization (**DPO**) onto Vevo (Versavoice) with INTP dataset (IntAlign), to improve the intelligibility of this voice imitation model.
