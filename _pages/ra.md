@@ -7,6 +7,12 @@ author_profile: true
 ---
 
 {% include base_path %}
+### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen (Supervisor: Prof. Zhizheng Wu)
+*Research Intern, TTS Group*  
+*Feb 2025 - Present, Shenzhen, China*
+
+Main Jobs:
+1. Implemented Direct Preference Optimization (**DPO**) onto Vevo (Versavoice) with INTP dataset (IntAlign), to improve the intelligibility of this voice imitation model.
 
 ### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Dr. Xuandong Zhao, Prof. Dawn Song)
 *Undergraduate Research Apprentice, AI Safety Division*  
