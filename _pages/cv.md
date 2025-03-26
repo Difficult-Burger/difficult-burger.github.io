@@ -32,6 +32,13 @@ Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learn
 
 Research Experiences 
 ======
+### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen (Supervisor: Prof. Zhizheng Wu)
+*Research Intern, TTS Group*  
+*Feb 2025 - Dec Present, Shenzhen, China*
+
+Main Jobs:
+1. Implemented Direct Preference Optimization (**DPO**) onto Vevo (Versavoice) with INTP dataset (IntAlign), to improve the intelligibility of this voice imitation model.
+
 ### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Dr. Xuandong Zhao, Prof. Dawn Song)
 *Undergraduate Research Apprentice, AI Safety Division*  
 *Oct 2024 - Dec 2024, Berkeley, USA*
