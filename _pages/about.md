@@ -12,6 +12,8 @@ I am currently a third-year undergraduate at [The Chinese University of Hong Kon
 
 My Internships
 ------
+**[ByteDance.](https://www.bytedance.com/):** Large Language Model Algorithm Intern (LLM for Code), 2025.5-2025.11, Shenzhen, China.
+
 **[Vitaly Medical Inc.](https://vitalymedicals.com/):** Machine Learning Intern, 2024.10-Present, Berkeley, USA.
 
 **[Baidu Inc.](https://home.baidu.com/):** Speech Algorithm Intern, 2024.6-2024.8, Beijing, China.
@@ -25,15 +27,19 @@ See "[Internships](/internships)" page for more information.
 
 My Research Experience as an Undergraduate Research Intern
 ------
+**[CUHK-Shenzhen Speech Lab](https://drwuz.com/team/)** (Supervisor: Prof. Zhizheng Wu):
+
+TTS Group, 2025.2-Present, Shenzhen, China
+
 **[Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)** (Supervisor: Prof. Dawn Song):
 
 AI Safety Division, 2024.10-Present, Berkeley, USA.
 
-**[Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html)** (Supervisor: Prof. Fangxin Wang):
+**[CUHK-Shenzhen Intelligent Networking and Multimedia Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/people.html)** (Supervisor: Prof. Fangxin Wang):
 
 Federated Learning Group, 2023.12-2024.8, Shenzhen, China.
 
-**[Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
+**[CUHK-Shenzhen Human-Crypto Society Laboratory](https://hcslab.cuhk.edu.cn/)** (Supervisor: Prof. Wei Cai):
 
 Decentralized Social Computing (Data Analysis) Group, 2023.2-2023.7, Shenzhen, China.
 
