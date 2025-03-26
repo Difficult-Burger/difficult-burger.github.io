@@ -7,6 +7,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+## [ByteDance](https://www.bytedance.com/)
+*Large Language Model Algorithm Intern (LLM for Code), AI for Dev (Trae) Department*  
+*May 2025 - Present, Shenzhen, China*
 
 ## [Vitaly Medical Inc.](https://vitalymedicals.com)
 *Machine Learning Intern*  
