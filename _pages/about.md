@@ -43,5 +43,5 @@ Federated Learning Group, 2023.12-2024.8, Shenzhen, China.
 
 Decentralized Social Computing (Data Analysis) Group, 2023.2-2023.7, Shenzhen, China.
 
-See "[RA](/ra)" page for more information.
+See "[Research](/research)" page for more information.
 
