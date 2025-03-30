@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Internship"
-permalink: /ra/
+permalink: /Research/
 author_profile: true
 
 ---
