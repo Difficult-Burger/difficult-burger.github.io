@@ -12,7 +12,9 @@ author_profile: true
 *Feb 2025 - Present, Shenzhen, China*
 
 Main Jobs:
-1. Implemented Direct Preference Optimization (**DPO**) onto Vevo (Versavoice) with INTP dataset (IntAlign), to improve the intelligibility of this voice imitation model.
+1. Built a gradio demo for **Vevo** (ICLR 2025) on Huggingface (https://huggingface.co/spaces/amphion/Vevo).
+2. Performed **normalization** on **300k** numerical text data (percentage, serial number, phone number, etc.) in various forms to generate positive samples, while retaining the unnormalized data as negative samples.
+3. Utilized this contrastive dataset to apply **DPO** (Direct Preference Optimization) to Vevo, enhancing the accuracy of the synthesized speech.
 
 ### [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu), UC Berkeley (Supervisor: Dr. Xuandong Zhao, Prof. Dawn Song)
 *Undergraduate Research Apprentice, AI Safety Division*  
