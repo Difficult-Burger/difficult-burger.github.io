@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 ## [ByteDance](https://www.bytedance.com/)
-*Large Language Model Algorithm Intern (LLM for Code), AI for Dev (Trae) Department*  
+*Large Language Model Algorithm Intern, MarsCode Team, Stone, Product Development & Engineering Architecture*
 *May 2025 - Present, Shenzhen, China*
 
 ## [Vitaly Medical Inc.](https://vitalymedicals.com)
