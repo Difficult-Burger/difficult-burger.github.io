@@ -13,7 +13,7 @@ author_profile: true
 
 ## [Vitaly Medical Inc.](https://vitalymedicals.com)
 *Machine Learning Intern*  
-*Oct 2024 - Present, Berkeley, USA*
+*Oct 2024 - Feb 2025, Berkeley, USA*
 
 Utilized the open-source wrist-worn accelerometer dataset WEDA-FALL to design and implement a **fall detection system**:
 1. Applied data preprocessing techniques including **filtering**, **segmentation**, and **feature extraction**.
