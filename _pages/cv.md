@@ -73,6 +73,10 @@ Main jobs:
 
 Internship Experiences
 ======
+### [ByteDance](https://www.bytedance.com/)
+*Large Language Model Algorithm Intern, MarsCode Team, Stone, Product Development & Engineering Architecture*
+*May 2025 - Present, Shenzhen, China*
+
 ### [Vitaly Medical Inc](https://vitalymedicals.com).
 *Machine Learning Intern*  
 *Oct 2024 - Present, Berkeley, USA*
