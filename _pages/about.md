@@ -12,7 +12,7 @@ I am currently a third-year undergraduate at [The Chinese University of Hong Kon
 
 My Internships
 ------
-**[ByteDance](https://www.bytedance.com/): (Incoming)** Large Language Model Algorithm Intern (AI for Code), 2025.5-I.dont.know, Shenzhen, China.
+**[ByteDance](https://www.bytedance.com/):** Large Language Model Algorithm Intern, 2025.5-I.dont.know, Shenzhen, China.
 
 **[Vitaly Medical Inc.](https://vitalymedicals.com/):** Machine Learning Intern, 2024.10-Present, Berkeley, USA.
 
