@@ -32,7 +32,7 @@ Wu P., Li K., **Nan J.**, & Wang F. (2025), Federated In-Context LLM Agent Learn
 
 Research Experiences 
 ======
-### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen (Supervisor: Prof. Zhizheng Wu)
+### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen 
 *Research Intern, TTS Group*  
 *Feb 2025 - Present, Shenzhen, China*
 
