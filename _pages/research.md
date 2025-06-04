@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen (Supervisor: Prof. Zhizheng Wu)
+### [Speech Lab](https://drwuz.com/team/), CUHK-Shenzhen 
 *Research Intern, TTS Group*  
 *Feb 2025 - Present, Shenzhen, China*
 
