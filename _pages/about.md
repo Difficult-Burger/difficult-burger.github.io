@@ -12,7 +12,7 @@ I am currently a third-year undergraduate at [The Chinese University of Hong Kon
 
 My Internships
 ------
-**[ByteDance](https://www.bytedance.com/):** Large Language Model Algorithm Intern, 2025.5-Present, Shenzhen, China.
+**[ByteDance](https://www.bytedance.com/):** LLM Algorithm (AI4Code) Intern, 2025.5-Present, Shenzhen, China.
 
 **[Vitaly Medical Inc.](https://vitalymedicals.com/):** Machine Learning Intern, 2024.10-2025.2, Berkeley, USA.
 
@@ -27,7 +27,7 @@ See "[Internships](/internships)" page for more information.
 
 My Research Experience as an Undergraduate Research Intern
 ------
-**[CUHK-Shenzhen Speech Lab](https://drwuz.com/team/)** (Supervisor: Prof. Zhizheng Wu):
+**[CUHK-Shenzhen Speech Lab](https://drwuz.com/team/)**:
 
 TTS Group, 2025.2-Present, Shenzhen, China
 
