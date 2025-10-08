@@ -12,7 +12,7 @@ I am currently a final year undergraduate at [The Chinese University of Hong Kon
 
 My Internships
 ------
-**[Binance](https://www.binance.com/):** Data Scientist (AI/LLM) Intern, 2025.9-Present, Remote.
+**[Binance](https://www.binance.com/):** Data Scientist (AI/LLM) Intern, 2025.9-Present, Decentralized.
 
 **[ByteDance](https://www.bytedance.com/):** LLM Algorithm (AI4Code) Intern, 2025.5-2025.8, Shenzhen, China.
 
