@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## [ByteDance](https://www.bytedance.com/)
+## [Binance](https://www.binance.com/)
 *Data Scientist (AI/LLM) Intern, LLM Team, AI-Data Services Department*  
 *Sept 2025 - Present, Decentralized*
 
