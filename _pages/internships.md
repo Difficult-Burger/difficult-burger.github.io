@@ -8,8 +8,12 @@ author_profile: true
 
 {% include base_path %}
 ## [ByteDance](https://www.bytedance.com/)
+*Data Scientist (AI/LLM) Intern, LLM Team, AI-Data Services Department*  
+*Sept 2025 - Present, Decentralized*
+
+## [ByteDance](https://www.bytedance.com/)
 *Large Language Model Algorithm Intern, MarsCode Team, Stone, Product Development & Engineering Architecture*  
-*May 2025 - Present, Shenzhen, China*
+*May 2025 - Aug 2025, Shenzhen, China*
 
 ## [Vitaly Medical Inc.](https://vitalymedicals.com)
 *Machine Learning Intern*  
